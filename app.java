@@ -21,7 +21,7 @@ class CarRide extends Ride {
         System.out.println("Car Ride");
     }      
 }
-public class Bookingapp {
+public class app {
     public static void main(String[] args) {
         Scanner c= new Scanner(System.in);
         System.out.println("Choose auto or car");
