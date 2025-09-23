@@ -29,7 +29,6 @@ public class Bookingapp {
         System.out.println("Enter the kilometer to travel");
         int km=c.nextInt();
         c.close();
-
         Ride a;
         if (choose.equals("auto")) {
             a = new AutoRide();   
